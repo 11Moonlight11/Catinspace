@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-moonlight built the Bird Runners app as a Free app. This SERVICE is provided by moonlight games at no cost and is intended for use as is.
+moonlight built the ctaas in spaceapp as a Free app. This SERVICE is provided by moonlight games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
